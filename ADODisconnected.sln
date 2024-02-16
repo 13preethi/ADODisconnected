@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADODisconnected", "ADODisco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisconnectedLibrary", "DisconnectedLibrary\DisconnectedLibrary.csproj", "{9FD8E5A9-CD9E-4506-BEBF-7F138C8D5449}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForms", "WebForms\WebForms.csproj", "{A0BEA058-BD5B-493E-B794-2A7A226A7CF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9FD8E5A9-CD9E-4506-BEBF-7F138C8D5449}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FD8E5A9-CD9E-4506-BEBF-7F138C8D5449}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FD8E5A9-CD9E-4506-BEBF-7F138C8D5449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0BEA058-BD5B-493E-B794-2A7A226A7CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BEA058-BD5B-493E-B794-2A7A226A7CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BEA058-BD5B-493E-B794-2A7A226A7CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BEA058-BD5B-493E-B794-2A7A226A7CF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
